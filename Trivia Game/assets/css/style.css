@@ -1,0 +1,32 @@
+body {
+  display: block;
+  margin: auto;
+  background-repeat: repeat-y;
+  background-image: url(../images/notes.png);
+  background-position: center;
+  /*background-blend-mode: lighten;*/
+}
+
+
+#title {
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #696969;
+  color: white;
+  text-shadow: 2px 2px #000000;
+
+}
+
+#subwrapper {
+  background-color: #696969;
+  text-shadow: 0px 1px #000000;
+
+  position: relative;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  text-align: center;
+
+}
